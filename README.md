@@ -1,5 +1,5 @@
 # Library-Management-System
-Projecet Description       :    My project name is Libraary Management System. (LMSDB)
+Projecet Description       :    My project name is Library Management System. (LMSDB)
 
 Project Overview Statement : 	As You Know that a Library is collection of books in any institute or bookstore.
 				Librarian resposibilty is to manage all the records of books issued and also returned on Manualy.
