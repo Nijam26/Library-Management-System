@@ -1,0 +1,10 @@
+# Library-Management-System
+Projecet Description       :    My project name is Libraary Management System. (LMSDB)
+
+Project Overview Statement : 	As You Know that a Library is collection of books in any institute or bookstore.
+				Librarian resposibilty is to manage all the records of books issued and also returned on Manualy.
+				All the Transaction(books issues & books returned) are manualy recorded(registars).
+				Students search books by racks it so time consuming and there is no arrangement. 
+
+The project aim and objective : To eliminate the paper –work in library to record every transaction in computerized system so 
+				that problem such as record file missing won't happen again. 
