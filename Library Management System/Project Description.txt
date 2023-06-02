@@ -1,7 +1,4 @@
 Project Name	   : Library Management System.
-ID No		   : 1272361
-Name		   : Nijam Uddin Ahmed.
-Batch Id	   : ESAD-CS/NVIT/-M/53/01
 =============================================================================================================
 Projecet Description       :    My project name is Libraary Management System. (LMSDB)
 
